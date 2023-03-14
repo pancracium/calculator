@@ -19,6 +19,6 @@ operation) on the input box, and THEN click the operation button:
 - Cube root (∛)
 - Logarithm (log)
 
-## .
+## How to convert to an executable
 
-Thanks for making this kid feel important.
+pyinstaller --onedir --noconsole --noconfirm --name "Calculator" --icon "icon.ico" --add-data "icon.ico;." --add-data "key_binds.txt;." --add-data "log.txt;." --add-data "README.md;." main.py `
