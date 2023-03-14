@@ -21,4 +21,14 @@ operation) on the input box, and THEN click the operation button:
 
 ## How to convert to an executable
 
-pyinstaller --onedir --noconsole --noconfirm --name "Calculator" --icon "icon.ico" --add-data "icon.ico;." --add-data "key_binds.txt;." --add-data "log.txt;." --add-data "README.md;." main.py `
+- Download the code as a zip file and unzip it to a folder
+
+- Open that folder with the terminal
+
+- Run this command:
+` pip install pyinstaller `
+
+- And lastly, run this one:
+` pyinstaller --onedir --noconsole --noconfirm --name "Calculator" --icon "icon.ico" --add-data "icon.ico;." --add-data "key_binds.txt;." --add-data "log.txt;." --add-data "README.md;." main.py `
+
+- Open the dist folder and run the app.
