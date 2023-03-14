@@ -1,6 +1,6 @@
 # CALCULATOR
 
-Simple calculator made by a teenager addicted to shitpost.
+Simple calculator made using Tkinter.
 
 ## How to use
 
