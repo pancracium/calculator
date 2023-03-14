@@ -1,5 +1,5 @@
 ##################################
-#  CALCULATOR v0.4 [04-11-2023]  #
+#  CALCULATOR v1.0 [14-11-2023]  #
 ##################################
 
 #Use it as you want, but please don't pretend it's yours.
